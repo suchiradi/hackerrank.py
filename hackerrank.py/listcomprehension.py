@@ -8,5 +8,4 @@ result = [[i, j, k]
     for k in range(z + 1)   #checks if k is within the given constraint 
     if i + j + k != n  ]
 
-# Print the result
 print(result)
